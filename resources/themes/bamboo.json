@@ -1,0 +1,37 @@
+{
+  "name": "Bamboo",
+  "description": "Default Bamboo OS theme with green accents",
+  "colors": {
+    "background": "#1a2e1a",
+    "foreground": "#e0ffe0",
+    "accent": "#4caf50",
+    "window_bg": "#1b3a1b",
+    "window_border": "#2d5a2d",
+    "titlebar_bg": "#2d5a2d",
+    "titlebar_text": "#ffffff",
+    "button_bg": "#1a2e1a",
+    "button_hover": "#2d5a2d",
+    "button_text": "#e0ffe0",
+    "text_input_bg": "#0f1f0f",
+    "text_input_text": "#e0ffe0",
+    "menu_bg": "#1b3a1b",
+    "menu_text": "#e0ffe0",
+    "menu_hover": "#2d5a2d",
+    "scrollbar_bg": "#1a2e1a",
+    "scrollbar_thumb": "#2d5a2d",
+    "taskbar_bg": "#2d5a2d",
+    "taskbar_text": "#ffffff",
+    "start_menu_bg": "#1b3a1b"
+  },
+  "fonts": {
+    "default": "terminus",
+    "monospace": "terminus",
+    "title": "terminus-bold"
+  },
+  "sizes": {
+    "titlebar_height": 24,
+    "border_width": 2,
+    "scrollbar_width": 12,
+    "taskbar_height": 32
+  }
+}
