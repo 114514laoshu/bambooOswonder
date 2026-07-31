@@ -229,6 +229,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 - Documentation: [docs/](docs/)
 
 ---
-
+Correction: The official GitHub repository of this project is https://github.com/114514laoshu/bambooOswonder. Thank you for your understanding!
+注意：本项目github地址为https://github.com/114514laoshu/bambooOswonder，感谢理解！
 **Bamboo OS Wonder Series** - Build your own operating system!
 **Bamboo OS Wonder 系列** - 构建你自己的操作系统！
