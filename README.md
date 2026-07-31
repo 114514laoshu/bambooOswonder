@@ -214,7 +214,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Authors / 作者
 
-- Bamboo OS Team
+- LSS（bamboo OS TEAM）
 
 ## Acknowledgments / 致谢
 
