@@ -1,0 +1,8 @@
+#!/bin/sh
+# Bamboo OS Init Script
+echo "Bamboo OS Wonder v1.0 booting..."
+mount -t proc proc /proc
+mount -t sysfs sys /sys
+mount -t devtmpfs dev /dev
+echo "Starting shell..."
+/bin/shell

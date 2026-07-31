@@ -1,0 +1,9 @@
+====================================================
+  Bamboo OS Wonder v1.0
+  Complete Operating System with:
+  - GUI Desktop
+  - Office Suite
+  - 3D Graphics
+  - App Store
+  - 300+ Commands
+====================================================

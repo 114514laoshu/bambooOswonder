@@ -1,0 +1,71 @@
+# ============================================================================
+# Bamboo OS Wonder - Git Ignore
+# ============================================================================
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Kernel binaries
+*.elf
+*.bin
+*.img
+*.iso
+*.tar
+*.bz2
+*.gz
+*.xz
+
+# Disk images
+*.img
+*.vmdk
+*.vdi
+*.qcow2
+*.raw
+
+# Log files
+*.log
+*.out
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# QEMU files
+*.mem
+*.dmp
+*.sock
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Test outputs
+tests/coverage/
+htmlcov/
+.coverage
+.pytest_cache/
+
+# OS specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Debug symbols
+*.dSYM/
+*.debug

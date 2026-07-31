@@ -1,0 +1,37 @@
+{
+  "name": "Light",
+  "description": "Light theme for Bamboo OS",
+  "colors": {
+    "background": "#f0f0f0",
+    "foreground": "#333333",
+    "accent": "#0066cc",
+    "window_bg": "#ffffff",
+    "window_border": "#cccccc",
+    "titlebar_bg": "#e0e0e0",
+    "titlebar_text": "#333333",
+    "button_bg": "#f5f5f5",
+    "button_hover": "#e8e8e8",
+    "button_text": "#333333",
+    "text_input_bg": "#ffffff",
+    "text_input_text": "#333333",
+    "menu_bg": "#ffffff",
+    "menu_text": "#333333",
+    "menu_hover": "#e8e8e8",
+    "scrollbar_bg": "#f0f0f0",
+    "scrollbar_thumb": "#cccccc",
+    "taskbar_bg": "#e0e0e0",
+    "taskbar_text": "#333333",
+    "start_menu_bg": "#ffffff"
+  },
+  "fonts": {
+    "default": "terminus",
+    "monospace": "terminus",
+    "title": "terminus-bold"
+  },
+  "sizes": {
+    "titlebar_height": 24,
+    "border_width": 2,
+    "scrollbar_width": 12,
+    "taskbar_height": 32
+  }
+}

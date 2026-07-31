@@ -1,0 +1,37 @@
+{
+  "name": "Dark",
+  "description": "Dark theme for Bamboo OS",
+  "colors": {
+    "background": "#1a1a2e",
+    "foreground": "#eaeaea",
+    "accent": "#00d4ff",
+    "window_bg": "#16213e",
+    "window_border": "#0f3460",
+    "titlebar_bg": "#0f3460",
+    "titlebar_text": "#ffffff",
+    "button_bg": "#1a1a2e",
+    "button_hover": "#16213e",
+    "button_text": "#eaeaea",
+    "text_input_bg": "#0f3460",
+    "text_input_text": "#ffffff",
+    "menu_bg": "#16213e",
+    "menu_text": "#eaeaea",
+    "menu_hover": "#0f3460",
+    "scrollbar_bg": "#1a1a2e",
+    "scrollbar_thumb": "#0f3460",
+    "taskbar_bg": "#0f3460",
+    "taskbar_text": "#ffffff",
+    "start_menu_bg": "#16213e"
+  },
+  "fonts": {
+    "default": "terminus",
+    "monospace": "terminus",
+    "title": "terminus-bold"
+  },
+  "sizes": {
+    "titlebar_height": 24,
+    "border_width": 2,
+    "scrollbar_width": 12,
+    "taskbar_height": 32
+  }
+}
